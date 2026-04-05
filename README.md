@@ -28,20 +28,23 @@ CS 2340: Objects and Design
 PSYC/NEUR 3803: Computational Neuroscience
 
 
-My interests largely lie in subfields of AI and Ml, and I've recently been quite interested in Computational Cognition. I enjoy learning, exploring, and reading about a multitude of topics, ranging from GRUs to aphantasia and visual perception to astrophysics and much more. 
+My interests largely lie in subfields of AI and ML (CV, DL, LLM, etc.), and I've recently been quite interested in Computational Cognition. I enjoy learning, exploring, and reading about a multitude of topics, ranging from GRUs to aphantasia and visual perception to astrophysics and much more. 
 
+I love talking and learning from people! Feel free to reach out to me via:
+* Email (antaravadhera1[at]gmail[dot]com)
+* Discord @darkeneddd
+* [LinkedIn](https://www.linkedin.com/in/antara-vadhera/)
 
 <details>
   <summary>Relevant Coursework</summary>
-  
-  CS 1332: Data Structures and Algorithms
-  CS 2110: Computer Organization and Programming
-  CS 2050: Discrete Math
-  CS/PSYC 4803: AI in Cognitive Science
+  * CS 1332: Data Structures and Algorithms
+  * CS 2110: Computer Organization and Programming
+  * CS 2050: Discrete Math
+  * CS/PSYC 4803: AI in Cognitive Science
 
   Currently taking:
-  CS 2200: Systems and Networks
-  CS 2340: Objects and Design
-  PSYC/NEUR 3803: Computational Neuroscience
+  * CS 2200: Systems and Networks
+  * CS 2340: Objects and Design
+  * PSYC/NEUR 3803: Computational Neuroscience
 </details>
 
