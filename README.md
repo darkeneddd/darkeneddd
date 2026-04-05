@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Computer Science student at Georgia Tech, with Intelligence & Systems and Architecture threads, and am graduating in May 2028. 
 
-My interests largely lie in subfields of AI and ML (CV, DL, LLM, etc.), and I've recently been quite interested in Computational Cognition. I enjoy learning, exploring, and reading about a multitude of topics, ranging from GRUs to aphantasia and visual perception to astrophysics and much much more. 
+My interests largely lie in subfields of AI and ML (CV, DL, LLM, etc.), and I've recently developed an interest in Computational Cognition. I enjoy learning, exploring, and reading about a multitude of topics, ranging from GRUs to aphantasia and visual perception to astrophysics and much much more. 
 
 I love talking and learning from people! Feel free to reach out to me via:
 * Email antaravadhera1[at]gmail[dot]com
@@ -63,7 +63,8 @@ I'm currently working on a BCI based research project on handwriting decoder fro
   * Predeterminism vs free will
   * Hypnagogic sleep
   * Use of AI in my workflow and life
-  * Visual art, specifically digital art, although ocassionally I dabble in more traditional art
+  * Visual art, specifically digital art, although ocassionally I dabble in more traditional art.
+  * Graphic design
   * Gender equality
   * Scrolling Reddit and LessWrong
   * Watching Veritasium and 3B1B videos
