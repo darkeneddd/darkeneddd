@@ -24,6 +24,8 @@ I love talking and learning from people! Feel free to reach out to me via:
 * Discord @darkeneddd
 * [LinkedIn](https://www.linkedin.com/in/antara-vadhera/)
 
+I'm currently working on a BCI based research project on handwriting decoder from EEG signals, research on Think Aloud + Chain of Thought + Personas, and a Clues by Sam Solver
+
 <details>
   <summary>Relevant Coursework</summary>
 
@@ -50,6 +52,7 @@ I love talking and learning from people! Feel free to reach out to me via:
     - AI memory (also aphantasia and memory)
     - bias reduction
     - visual perception
+  * Interpretability and Chain of Thought
   * Gymnastics (competitive gymnast, GT Club Gymnastics)
   * Outdoor Adventures (in particular, Cascading, Rock Climbing, Backpacking, and Hiking) with Outdoor Recreation at Tech
   * Board games and card games
