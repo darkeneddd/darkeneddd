@@ -62,7 +62,7 @@ I love talking and learning from people! Feel free to reach out to me via:
   * Use of AI in my workflow and life
   * Visual art, specifically digital art, although ocassionally I dabble in more traditional art
   * Gender equality
-  * Scrolling reddit
+  * Scrolling Reddit and LessWrong
   * Watching Veritasium and 3B1B videos
   * Some skills I want to learn: 3D Printing, skateboarding, speedcubing, speed stacking, guitar, electrical projects [inexhaustive]
   
