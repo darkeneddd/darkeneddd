@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hellos! I'm Antara!
 
 <!--
 **darkeneddd/darkeneddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Computer Science student at Georgia Tech, with Intelligence & Systems and Architecture threads, and am graduating in May 2028. 
+Relevant Coursework: 
+CS 1332: Data Structures and Algorithms
+CS 2110: Computer Organization and Programming
+CS 2050: Discrete Math
+CS/PSYC 4803: AI in Cognitive Science
+
+Currently taking:
+CS 2200: Systems and Networks
+CS 2340: Objects and Design
+PSYC/NEUR 3803: Computational Neuroscience
+
+
+My interests largely lie in subfields of AI and Ml, and I've recently been quite interested in Computational Cognition. I enjoy learning, exploring, and reading about a multitude of topics, ranging from GRUs to aphantasia and visual perception to astrophysics and much more. 
+
+
+<details>
+  <summary>Relevant Coursework</summary>
+  
+  CS 1332: Data Structures and Algorithms
+  CS 2110: Computer Organization and Programming
+  CS 2050: Discrete Math
+  CS/PSYC 4803: AI in Cognitive Science
+
+  Currently taking:
+  CS 2200: Systems and Networks
+  CS 2340: Objects and Design
+  PSYC/NEUR 3803: Computational Neuroscience
+</details>
+
