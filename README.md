@@ -29,13 +29,13 @@ I'm currently working on a BCI based research project on handwriting decoder fro
 <details>
   <summary>Relevant Coursework</summary>
 
-  ### Completed
+  #### Completed
   * CS 1332: Data Structures and Algorithms
   * CS 2110: Computer Organization and Programming
   * CS 2050: Discrete Math
   * CS/PSYC 4803: AI in Cognitive Science
 
-  ### Currently taking:
+  #### Currently taking:
   * CS 2200: Systems and Networks
   * CS 2340: Objects and Design
   * PSYC/NEUR 3803: Computational Neuroscience
