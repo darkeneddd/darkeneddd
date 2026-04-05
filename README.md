@@ -40,7 +40,7 @@ I love talking and learning from people! Feel free to reach out to me via:
 </details>
 
 <details>
-  <summary>Other Interests / Hobbies</summary>
+  <summary>Other Interests / Hobbies / Things I think about</summary>
 
   #### Get ready for a list...
   * A ton about how the brain works and how that relates to AI
@@ -52,16 +52,17 @@ I love talking and learning from people! Feel free to reach out to me via:
     - visual perception
   * Gymnastics (competitive gymnast, GT Club Gymnastics)
   * Outdoor Adventures (in particular, Cascading, Rock Climbing, Backpacking, and Hiking) with Outdoor Recreation at Tech
-  * Board Games and Card Games
+  * Board games and card games
   * Logic puzzles and games (ex. LinkedIn Games, NYT Games, Clues by Sam, Linxicon, Murdle, etc)
   * Model UN
   * Photography
-  * Outer Space and Astrophysics
+  * Outer space and astrophysics
   * Predeterminism vs free will
   * Hypnagogic sleep
-  * Visual Art, specifically Digital Art
-  * Gender Equality
-  * Scrolling Reddit
+  * Use of AI in my workflow and life
+  * Visual art, specifically digital art, although ocassionally I dabble in more traditional art
+  * Gender equality
+  * Scrolling reddit
   * Watching Veritasium and 3B1B videos
   * Some skills I want to learn: 3D Printing, skateboarding, speedcubing, speed stacking, guitar, electrical projects [inexhaustive]
   
