@@ -39,3 +39,31 @@ I love talking and learning from people! Feel free to reach out to me via:
   * PSYC/NEUR 3803: Computational Neuroscience
 </details>
 
+<details>
+  <summary>Other Interests / Hobbies</summary>
+
+  #### Get ready for a list...
+  * A ton about how the brain works and how that relates to AI
+    - metacognition
+    - AI alignment
+    - AI Decision Making
+    - AI memory (also aphantasia and memory)
+    - bias reduction
+    - visual perception
+  * Gymnastics (competitive gymnast, GT Club Gymnastics)
+  * Outdoor Adventures (in particular, Cascading, Rock Climbing, Backpacking, and Hiking) with Outdoor Recreation at Tech
+  * Board Games and Card Games
+  * Logic puzzles and games (ex. LinkedIn Games, NYT Games, Clues by Sam, Linxicon, Murdle, etc)
+  * Model UN
+  * Photography
+  * Outer Space and Astrophysics
+  * Predeterminism vs free will
+  * Hypnagogic sleep
+  * Visual Art, specifically Digital Art
+  * Gender Equality
+  * Scrolling Reddit
+  * Watching Veritasium and 3B1B videos
+  * Some skills I want to learn: 3D Printing, skateboarding, speedcubing, speed stacking, guitar, electrical projects [inexhaustive]
+  
+</details>
+
